@@ -1,0 +1,6 @@
+{
+  "name": "SBB Smart Mobility",
+  "description": "An interactive Swiss smart railway dashboard integrating multi-modal routes, live network tracking, and Web3 reward tokens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
